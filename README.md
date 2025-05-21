@@ -12,6 +12,7 @@
 * В качестве интерфейса использован Gradio
 
 ## AI trainer
+[ссылка на colab](https://colab.research.google.com/drive/1mP-rQEu5hl3FSBpjW1x1qHKQ0ZNfH6ut?usp=sharing)
 Построена RAG-система, и проведена борьба с галлюцинациями. Также введена фильтрация запросов **Llama Guard**.
 * Результаты:
   1. Полное отсутствие галлюцинаций.

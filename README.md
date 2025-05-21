@@ -3,7 +3,7 @@
 
 ## Assistant_GPT
 
-[ссылка на colab](https://colab.research.google.com/github/pavelpryadokhin/AI-Assistant/blob/main/Assistant_GPT.ipynb)
+[Код в colab](https://colab.research.google.com/github/pavelpryadokhin/AI-Assistant/blob/main/Assistant_GPT.ipynb)
 
 Будем использовать **chatGPT** в качестве нашей модели, а для векторной базы данных — **Chromadb**. Для реализации проекта выберем фреймворк **Langchain**.
 * Созданы:
@@ -16,7 +16,7 @@
 
 ## AI trainer
 
-[ссылка на colab](https://colab.research.google.com/drive/1mP-rQEu5hl3FSBpjW1x1qHKQ0ZNfH6ut?usp=sharing)
+[Код в colab](https://colab.research.google.com/drive/1mP-rQEu5hl3FSBpjW1x1qHKQ0ZNfH6ut?usp=sharing)
 
 Построена RAG-система, и проведена борьба с галлюцинациями. Также введена фильтрация запросов **Llama Guard**.
 * Результаты:
@@ -26,7 +26,7 @@
 
 ## Консультант_RAG
 
-[ссылка на colab](https://colab.research.google.com/github/pavelpryadokhin/AI-Assistant/blob/main/%D0%9A%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82_RAG.ipynb)
+[Код в colab](https://colab.research.google.com/github/pavelpryadokhin/AI-Assistant/blob/main/%D0%9A%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82_RAG.ipynb)
 
 Простая RAG система, которая по загруженному pdf/txt файлу отвечает на вопросы.
 * В качестчве моделей используется **mistralai** и **deepseek**

@@ -25,5 +25,8 @@
   3.  Система отвечает на вопросы только по заданной теме.
 
 ## Консультант_RAG
+
+[ссылка на colab](https://colab.research.google.com/github/pavelpryadokhin/AI-Assistant/blob/main/%D0%9A%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82_RAG.ipynb)
+
 Простая RAG система, которая по загруженному pdf/txt файлу отвечает на вопросы.
 * В качестчве моделей используется **mistralai** и **deepseek**
